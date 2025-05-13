@@ -1,5 +1,5 @@
 ---
-title: "Hi, I'm [Your Name Here]"
+title: "Hi, I'm Angel Delgado"
 ---
 
 
@@ -8,19 +8,19 @@ title: "Hi, I'm [Your Name Here]"
 ![](https://placehold.co/530x530?text=images/headshot.jpg){width=100% style="border-radius: 50%;"}
 :::
 ::: {.column width="70%" style="padding-left: 3rem;"}
-I'm a [your profession or area of focus]. I specialize in transforming complex information into clear, engaging, and actionable insights.
+I'm a Product Management Professional. I specialize in transforming complex information into clear, engaging, and actionable insights, I am a leader with over 28 years of team-building experience in consumer product management and national sales roles. I have demonstrated success in growing revenue, building relationships, bringing new products to market, improving customer engagement, and building dynamic experiences for national brands..
 :::
 :::
 
 ## About Me
 
-I hold a <span class="highlight">[Your Degree or Current Program]</span> from [Your Institution].
+I hold a <span class="highlight">M.S. Digital Marketing </span> from Cal Poly Pomona.
 
 
 
 ## Let's Connect
 
-You can [email me](mailto:you@example.com) or connect on [LinkedIn](https://www.linkedin.com/in/your-profile).
+You can [email me](mailto:Angel@VAMCCO.com) or connect on [LinkedIn](https://www.linkedin.com/in/angel-delgado-66b3308).
 
 ---
 
